@@ -4,10 +4,10 @@ Score Keeper App is an Android Application that keeps tracks of the number of ru
 
 
 This was a project given to me to complete by Udacity's Android Basic Nanodegree program.
-
+https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
 <img src='https://github.com/sgm28/ScoreKeeperApp/blob/master/gif/BaseballApp.gif' title='ScoreKeeperApp Walkthrough' width=300 alt='ScoreKeeperApp Walkthrough' />
-https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+
 
 Instruction on Running the program:
 
