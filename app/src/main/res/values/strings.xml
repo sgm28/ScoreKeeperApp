@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseballScoreCard</string>
+    <string name="new_york_yankees">New York Yankees</string>
+    <string name="runs">Runs</string>
+    <string name="outs">Outs</string>
+    <string name="boston_red_sox">Boston Red Sox</string>
+    <string name="reset">Reset</string>
+    <string name="baseball">baseball</string>
+</resources>
